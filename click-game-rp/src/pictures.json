@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "LoZ1",
+    "clicked": false,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71-HLgrCoZL._AC_SL1280_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "LoZ2",
+    "image": "https://www.zelda.com/breath-of-the-wild/assets/media/header/Main-Day.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "LoZ3",
+    "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Finsertcoin%2Ffiles%2F2017%2F03%2Fbreath-of-the-wild-shrine1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "LoZ4",
+    "image": "https://www.journaldugeek.com/wp-content/blogs.dir/1/files/2017/03/Zelda-Breath-of-the-Wild-Test-10.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "LoZ5",
+    "image": "https://heavyeditorial.files.wordpress.com/2017/12/breath-of-the-wild-ravio.jpg?quality=65&strip=all&w=780",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "LoZ6",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS73yceHais00FE2rAB00D78SFnYirhZhNuQyh2FYHo63uhVbWY",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "LoZ7",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwuQjhCbbP8aBA_jyx8qPQaPCzODiWJDMEMMF2A2PeQ9vGC6AF",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "LoZ8",
+    "image": "https://media1.fdncms.com/styleweekly/imager/u/original/2785118/zelda_3_crop.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "LoZ9",
+    "image": "https://pre00.deviantart.net/2f19/th/pre/f/2017/079/0/f/the_legend_of_zelda___breath_of_the_wild_by_pyrogas_artworks-db2zf69.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "LoZ10",
+    "image": "https://thumbs.mic.com/ZmQ2ZGU4MmI2ZiMvV2o4RHN2NGJfbWlxOUpCeVJXcHFPLVhjbU5zPS8yMHgwOjEwNjF4NjIwLzE2MDB4OTAwL2ZpbHRlcnM6Zm9ybWF0KGpwZWcpOnF1YWxpdHkoODApL2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9wb2xpY3ltaWMtaW1hZ2VzLzJ6cTlkbXBkYnpvZW5rcHFyanl1b2dudWZpNG81aHlqcmFod3h3YTZ6bHB2d2s5ZWR1MHFpOWdsZm54b2FpaHEuanBn.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "LoZ11",
+    "image": "http://cdn.themis-media.com/media/global/images/library/deriv/1396/1396088.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "LoZ12",
+    "image": "https://i.gadgets360cdn.com/large/legend_of_zelda_breath_of_the_wild_raft_1489124630765.jpg?output-quality=80",
+    "clicked": false
+  }
+]

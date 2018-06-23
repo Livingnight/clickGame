@@ -1,0 +1,17 @@
+.directionContainer{
+    text-align: center;
+    background: url("http://i.imgur.com/87Ie2nd.gif");
+    height: 300px;
+    /*line-height: 50px;*/
+}
+.directionContainer h1, h3{
+    color: silver;
+    /*line-height: 150px;*/
+}
+.directionContent{
+    /*padding: 100px 0 0 0;*/
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+}

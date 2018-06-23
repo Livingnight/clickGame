@@ -1,0 +1,18 @@
+nav{
+    box-shadow: 2px 2px 4px gray;
+    height: 75px;
+    background-color: silver;
+    text-shadow: 2px 2px 4px darkslategray;
+    text-align: center;
+}
+
+.navbar li{
+    display: inline-block;
+    /*width: 33.3%;*/
+    padding: 29px 0;
+    /*margin-right: 25%;*/
+    text-align: center;
+}
+nav a{
+    color: white;
+}
