@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413c46b9-e275-4be4-a160-51964bd31d57" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/click-game-rp/src/component/directions/directions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/click-game-rp/src/component/directions/directions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/click-game-rp/src/component/footer/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/click-game-rp/src/component/pictures/pictures.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/click-game-rp/src/component/pictures/pictures.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/click-game-rp/src/pictures.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/click-game-rp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/click-game-rp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/click-game-rp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/click-game-rp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/click-game-rp/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/click-game-rp/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/click-game-rp/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="70" column="46" selection-start-line="70" selection-start-column="46" selection-end-line="70" selection-end-column="46" />
+            <state relative-caret-position="134">
+              <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -33,11 +31,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="directions.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/click-game-rp/src/component/directions/directions.css">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/click-game-rp/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="374">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="3" selection-start-column="3" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/click-game-rp/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="228">
+                <caret line="2168" column="35" selection-start-line="2165" selection-start-column="4" selection-end-line="2168" selection-end-column="35" />
+                <folding>
+                  <element signature="e#0#41#0" expanded="true" />
+                  <element signature="e#0#41#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#42#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#35#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                  <element signature="e#0#28#0" expanded="true" />
+                  <element signature="e#0#28#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -58,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/click-game-rp/src/pictures.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -67,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/click-game-rp/src/component/header/header.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -76,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/click-game-rp/src/component/footer/footer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -93,34 +128,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="directions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/click-game-rp/src/component/directions/directions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" selection-start-column="26" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pictures.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/click-game-rp/src/component/pictures/pictures.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pictures.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/click-game-rp/src/component/pictures/pictures.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pictureState</find>
+      <find>github pages</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>this.state</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -140,6 +166,8 @@
         <option value="$PROJECT_DIR$/click-game-rp/src/component/header/header.js" />
         <option value="$PROJECT_DIR$/click-game-rp/src/component/header/header.css" />
         <option value="$PROJECT_DIR$/click-game-rp/src/App.js" />
+        <option value="$PROJECT_DIR$/click-game-rp/README.md" />
+        <option value="$PROJECT_DIR$/click-game-rp/package.json" />
       </list>
     </option>
   </component>
@@ -179,51 +207,6 @@
               <item name="clickGame" type="b2602c69:ProjectViewProjectNode" />
               <item name="clickGame" type="462c0819:PsiDirectoryNode" />
               <item name="click-game-rp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="clickGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clickGame" type="462c0819:PsiDirectoryNode" />
-              <item name="click-game-rp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="clickGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clickGame" type="462c0819:PsiDirectoryNode" />
-              <item name="click-game-rp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="clickGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clickGame" type="462c0819:PsiDirectoryNode" />
-              <item name="click-game-rp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-              <item name="directions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="clickGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clickGame" type="462c0819:PsiDirectoryNode" />
-              <item name="click-game-rp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-              <item name="footer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="clickGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clickGame" type="462c0819:PsiDirectoryNode" />
-              <item name="click-game-rp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="clickGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="clickGame" type="462c0819:PsiDirectoryNode" />
-              <item name="click-game-rp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-              <item name="pictures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,25 +256,25 @@
       <updated>1529521329708</updated>
       <workItem from="1529521331265" duration="9048000" />
       <workItem from="1529558572292" duration="11859000" />
-      <workItem from="1529695368328" duration="27072000" />
+      <workItem from="1529695368328" duration="28947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47979000" />
+    <option name="totallyTimeSpent" value="49854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12012645" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12012645" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32960895" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -504,7 +487,7 @@
     <entry file="file://$PROJECT_DIR$/click-game-rp/src/component/footer/footer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -531,31 +514,71 @@
     <entry file="file://$PROJECT_DIR$/click-game-rp/src/component/header/header.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/click-game-rp/src/component/pictures/pictures.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/click-game-rp/src/pictures.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/click-game-rp/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="70" column="46" selection-start-line="70" selection-start-column="46" selection-end-line="70" selection-end-column="46" />
+        <state relative-caret-position="134">
+          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="3" selection-start-column="3" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click-game-rp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click-game-rp/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="228">
+            <caret line="2168" column="35" selection-start-line="2165" selection-start-column="4" selection-end-line="2168" selection-end-column="35" />
+            <folding>
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#42#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#35#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#28#0" expanded="true" />
+              <element signature="e#0#28#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
