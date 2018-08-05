@@ -3,16 +3,34 @@ nav{
     height: 75px;
     background-color: silver;
     text-shadow: 2px 2px 4px darkslategray;
-    text-align: center;
-}
+    /*text-align: center;*/
+    width: 100%;
 
+}
+nav .row{
+    min-width: 100%;
+
+}
 .navbar li{
-    display: inline-block;
+    display: inline;
     /*width: 33.3%;*/
-    padding: 29px 0;
+    /*padding: 29px 0;*/
     /*margin-right: 25%;*/
     text-align: center;
 }
 nav a{
     color: white;
+}
+nav .score{
+    /*margin: 0 auto;*/
+    line-height: 75px;
+    vertical-align: middle;
+
+    padding-top: 30px;
+    text-align: center;
+    position: relative;
+
+
+    /*display: inline-block;*/
+
 }
